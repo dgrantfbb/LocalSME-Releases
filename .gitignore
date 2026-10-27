@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!LICENSE
+!CHANGELOG.md
+!docs/
+!docs/images/
+!docs/images/**
